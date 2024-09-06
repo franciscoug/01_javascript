@@ -1,0 +1,21 @@
+RESUMEN
+
+Espero que hayas logrado asimilar algunos problemas básicos
+(y algunos más exigentes) relacionados con los objetos de JavaScript.
+
+Muchos conceptos nuevos, como propiedades, métodos, notación de puntos,
+ métodos de obtención o constructores, ya deberían resultarte bastante 
+ sencillos. Creo que podrás crear objetos fácilmente 
+ (eligiendo la forma que te resulte más cómoda), 
+ hacer referencia a ellos o modificarlos.
+No deberías sorprenderte por las diferencias entre comparaciones 
+superficiales y profundas, ni por las referencias asociadas a ellas.
+
+Los temas un poco más complejos, como los prototipos o la configuración 
+de propiedades de objetos, pueden resultar un poco preocupantes, 
+pero comprenderlos por completo requiere algo de práctica. 
+Y si ya sientes que no son un problema, mucho mejor, ¡felicitaciones!
+
+El uso eficiente de objetos es absolutamente necesario si te tomas 
+en serio la programación en JavaScript. 
+
